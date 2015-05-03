@@ -1,6 +1,7 @@
 ﻿"mate_room"= 0.25
 "removal_room"= 0.75
 "large_inner_axle_diameter"=20
+"small_inner_axle_diameter"=17
 "guard_thickness"=5
 "spool_inner_diameter_room"=1
 "32_92_spool_inner_diameter"=32
