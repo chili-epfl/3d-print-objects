@@ -13,3 +13,12 @@
 "32_92_coupling_tooth_head_height"=4
 "32_92_coupling_tooth_depth"=8
 "32_92_coupling_tooth_base_thickness"=5.5
+"53_55_spool_inner_diameter"=53
+"53_55_spool_thickness"=55
+"53_55_guard_diameter"=75
+"53_55_coupling_tooth_height"=27
+"53_55_coupling_tooth_thickness_total"=8
+"53_55_coupling_tooth_protrusion"=1.5
+"53_55_coupling_tooth_head_height"=7.5
+"53_55_coupling_tooth_depth"=10
+"53_55_coupling_tooth_base_thickness"=9.5
