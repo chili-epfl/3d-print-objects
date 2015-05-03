@@ -1,2 +1,0 @@
-﻿"mate_room"= 0.25
-"removal_room"= 0.75

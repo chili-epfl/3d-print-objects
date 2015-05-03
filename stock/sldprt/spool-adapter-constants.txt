@@ -1,0 +1,14 @@
+﻿"mate_room"= 0.25
+"removal_room"= 0.75
+"large_inner_axle_diameter"=20
+"guard_thickness"=5
+"spool_inner_diameter_room"=1
+"32_92_spool_inner_diameter"=32
+"32_92_spool_thickness"=92
+"32_92_guard_diameter"=50
+"32_92_coupling_tooth_height"=13
+"32_92_coupling_tooth_thickness_total"=4
+"32_92_coupling_tooth_protrusion"=1
+"32_92_coupling_tooth_head_height"=4
+"32_92_coupling_tooth_depth"=8
+"32_92_coupling_tooth_base_thickness"=5.5
