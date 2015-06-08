@@ -15,7 +15,8 @@ Contains 'stock' parts that may be reprinted when broken or when replicates are 
     printing with flexible filaments.
     - *leapfrog-creatrhs-extruder-filament-guide-after-spool*: Used to mount the receiving end of the
     first (larger) guide tube to e.g a wall.
-    - *leapfrog-creatrhs-fan-duct*: Improved fan duct.
+    - *leapfrog-creatrhs-default-fan-duct-v4*: Fan duct provided by Leapfrog for Leapfrog Creatr HS.
+    - *leapfrog-creatrhs-fan-duct*: Improved fan duct for Leapfrog Creatr HS.
   - *32-92-spool-adapters*: Inner axle for mounting a spool with 32mm inner diameter and 92mm height onto a rod.
     - *32-92-17-spool-adapter*: Mounting rod is 17mm in diameter.
     - *32-92-20-spool-adapter*: Mounting rod is 20mm in diameter.
