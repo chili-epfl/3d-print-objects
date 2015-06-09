@@ -1,4 +1,5 @@
-﻿"mate_room"= 0.25
+﻿"bend_room_length_multiplier"=3
+"mate_room"= 0.25
 "removal_room"= 0.75
 "large_inner_axle_diameter"=20
 "small_inner_axle_diameter"=17
@@ -7,12 +8,10 @@
 "32_92_spool_inner_diameter"=32
 "32_92_spool_thickness"=92
 "32_92_guard_diameter"=50
-"32_92_coupling_tooth_height"=13
-"32_92_coupling_tooth_thickness_total"=4
-"32_92_coupling_tooth_protrusion"=1
-"32_92_coupling_tooth_head_height"=4
-"32_92_coupling_tooth_depth"=8
-"32_92_coupling_tooth_base_thickness"=5.5
+"32_92_extra_spool_thickness"=-5
+"39_92_spool_inner_diameter"=39
+"39_92_spool_thickness"=92
+"39_92_guard_diameter"=60
 "53_55_spool_inner_diameter"=53
 "53_55_spool_thickness"=55
 "53_55_guard_diameter"=75
