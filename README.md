@@ -17,12 +17,8 @@ Contains 'stock' parts that may be reprinted when broken or when replicates are 
     first (larger) guide tube to e.g a wall.
     - *leapfrog-creatrhs-default-fan-duct-v4*: Fan duct provided by Leapfrog for Leapfrog Creatr HS.
     - *leapfrog-creatrhs-fan-duct*: Improved fan duct for Leapfrog Creatr HS.
-  - *32-92-spool-adapters*: Inner axle for mounting a spool with 32mm inner diameter and 92mm height onto a rod.
-    - *32-92-17-spool-adapter*: Mounting rod is 17mm in diameter.
-    - *32-92-20-spool-adapter*: Mounting rod is 20mm in diameter.
-  - *53-55-spool-adapters*: Inner axle for mounting a spool with 53mm inner diameter and 55mm height onto a rod.
-    - *53-55-17-spool-adapter*: Mounting rod is 17mm in diameter.
-    - *53-55-20-spool-adapter*: Mounting rod is 20mm in diameter.
+  - *d-h-r-spool-adapter*: Inner axle for mounting a spool with inner diameter d(mm) and height h(mm)
+    onto a rod of diameter r(mm).
 
 flexible-filament-tests
 -----------------------
