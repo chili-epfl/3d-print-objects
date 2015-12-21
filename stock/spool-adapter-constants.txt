@@ -18,3 +18,6 @@
 "52_62_spool_inner_diameter"=52
 "52_62_spool_thickness"=62
 "52_62_guard_diameter"=75
+"53_71_spool_inner_diameter"=53
+"53_71_spool_thickness"=71
+"53_71_guard_diameter"=75
